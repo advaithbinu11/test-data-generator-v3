@@ -1,0 +1,11 @@
+{
+    "tests":350,
+    "regex": {
+      "user_id":"\\d*",
+      "email_address": "\\w{8,15}@gmail.com",
+      "Groupname":"[ABCDEFG]",
+      "phone_number": "\\d{10}",
+      "birth_date": "\\d{4}-\\d{2}-\\d{2}",
+      "postal_code": "\\d{5}"
+    }
+  }
